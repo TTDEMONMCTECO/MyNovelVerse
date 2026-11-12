@@ -1,0 +1,6 @@
+{
+  "name": "NovelVerse",
+  "description": "Professional modern novel reading app with clean architecture, offline reading, bookmarks, and customizable reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
